@@ -15,3 +15,5 @@ console.log("valor total:" , valor - desconto)
 else{
     console.log("valor total:" , valor.toFixed(2))
 }
+
+
