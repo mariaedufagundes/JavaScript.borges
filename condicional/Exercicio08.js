@@ -25,6 +25,5 @@ else if (imc >= 35 && imc <=39.9){
 }
 
 else{
-    console.log("Obesidade grau 3" ,imc toFixed(
-    ))
+    console.log("Obesidade grau 3")
 }
