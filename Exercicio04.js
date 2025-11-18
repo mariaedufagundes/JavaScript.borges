@@ -19,4 +19,4 @@ else if (media >5 && media < 7) {
 
 else {
     console.log("REPROVADO")
-}
+} 
