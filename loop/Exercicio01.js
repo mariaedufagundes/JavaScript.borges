@@ -2,5 +2,5 @@
 //for (inicializador; condição; contador)
 
 for(let num = 1; num <= 10; num++){
-    console.log("" + num)
+    console.log( num)
 }
